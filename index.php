@@ -1,13 +1,13 @@
 <!Doctype HTML>
 <html>
 
-<head>   
-    
+<head>    
 
+<?php
+include_once "./components/head.component.php";
+?>
 </head>
  
-
-
 <body>
 
 
