@@ -9,10 +9,7 @@ include_once './components/sideBar.compoents.php';
 <html>
 
 <head>
-
-
-
-
+    <title>Dash Bord</title>
 
 </head>
 
