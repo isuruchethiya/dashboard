@@ -10,7 +10,9 @@ include_once './components/sideBar.compoents.php';
 
 <head>
     <title>Dash Bord</title>
-
+    <?php
+    include_once "./components/head.component.php";
+    ?>
 </head>
 
 <body>
@@ -40,9 +42,9 @@ include_once './components/sideBar.compoents.php';
 
         <script src="./js/script.js"></script>
 
-        
+
     </div>
-    
+
 </body>
 
 
